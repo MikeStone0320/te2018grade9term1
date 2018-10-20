@@ -1,5 +1,8 @@
 // import readline-sync module, don't touch!
 const READLINE = require("readline-sync");
 
-// Write your program below!
-// First line should get user input (year) and store it in variable y.
+
+
+let answer  = READLINE.question('What do you think of Node.js? ')
+
+console.log(aswer);
